@@ -1,0 +1,23 @@
+{
+    "todos": [
+        {
+            "title":"tarea 1",
+            "responsible": "kevin",
+            "description":"programacion",
+            "priority": "low"       
+        },
+        {
+            "title":"tarea 2",
+            "responsible": "ana",
+            "description":"programacion",
+            "priority": "medium"       
+        },
+        {
+            "title":"tarea 3",
+            "responsible": "jose",
+            "description":"programacion",
+            "priority": "high"       
+        }
+
+    ]
+}
